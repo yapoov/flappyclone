@@ -1,0 +1,14 @@
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.GeneratedMSBuildEditorConfig.editorconfig
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.AssemblyInfoInputs.cache
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.AssemblyInfo.cs
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.csproj.CoreCompileInputs.cache
+/home/orgil/Deakin/sit771/1.5d/bin/Debug/net8.0/_1_5d
+/home/orgil/Deakin/sit771/1.5d/bin/Debug/net8.0/_1_5d.deps.json
+/home/orgil/Deakin/sit771/1.5d/bin/Debug/net8.0/_1_5d.runtimeconfig.json
+/home/orgil/Deakin/sit771/1.5d/bin/Debug/net8.0/_1_5d.dll
+/home/orgil/Deakin/sit771/1.5d/bin/Debug/net8.0/_1_5d.pdb
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.dll
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/refint/_1_5d.dll
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.pdb
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/_1_5d.genruntimeconfig.cache
+/home/orgil/Deakin/sit771/1.5d/obj/Debug/net8.0/ref/_1_5d.dll
